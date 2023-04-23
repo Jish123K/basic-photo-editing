@@ -1,0 +1,1 @@
+ photo editing app could have a feature that automatically deletes edited photos after they have been saved to the user's device or shared on social media. This could be particularly useful for users who edit photos containing sensitive information, such as identifying details or location data, and want to ensure that those details are not inadvertently shared
